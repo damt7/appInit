@@ -1,0 +1,4 @@
+appInit
+=======
+
+Aplicación web simple.
